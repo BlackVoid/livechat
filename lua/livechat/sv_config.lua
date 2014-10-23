@@ -1,0 +1,9 @@
+LiveChat.Config 					= {}
+LiveChat.Config['serverID'] 		= 1
+LiveChat.Config['host'] 			= "127.0.0.1"
+LiveChat.Config['port'] 			= 3306
+LiveChat.Config['username'] 		= 'root'
+LiveChat.Config['password'] 		= ''
+LiveChat.Config['database'] 		= ''
+LiveChat.Config['table'] 			= 'bv_chatlog'
+LiveChat.Config['ShowTeamChat'] 	= false
