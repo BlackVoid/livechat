@@ -8,8 +8,8 @@ Simple chat logging addon for Garrysmod which uses MySQLOO.
 4. Modify config.php and set your database settings
 5. Add to your loading screen using an iframe or add an menu option on your website to the serverchat.  
 
-    ```http://yourdomain.com/livechat-web/showchat.php?serverID=1&showDate=1&showTeam=1&showSteamID=1```
-    ```<iframe src="http://yourdomain.com/livechat-web/showchat.php?serverID=1&showDate=1&showTeam=1&showSteamID=1" width="500" height="500"></iframe>```
+    http://yourdomain.com/livechat-web/showchat.php?serverID=1&showDate=1&showTeam=1&showSteamID=1
+    <iframe src="http://yourdomain.com/livechat-web/showchat.php?serverID=1&showDate=1&showTeam=1&showSteamID=1" width="500" height="500"></iframe>
 
 ## License
 
